@@ -11,8 +11,6 @@ function App() {
       <Route path="/signup" exact element={<Signup />} />
       <Route path="/login" exact element={<Login />} />
       <Route path="/chat" exact element={<Chatbot />} />
-      {/* Catch-all route to handle unmatched paths */}
-      <Route path="*" element={<Navigate to="/" replace />} />
     </Routes>
   );
 }
