@@ -55,7 +55,7 @@ const Login = () => {
 						/>
 						{error && <div className={styles.error_msg}>{error}</div>}
 						<button type="submit" className={styles.green_btn}>
-							Sign In
+							LogIn
 						</button>
 					</form>
 				</div>
