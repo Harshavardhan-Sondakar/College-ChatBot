@@ -63,7 +63,6 @@ function main() {
               </Link>
             </div>
           </div>
-
           <img src={chatbot} alt="chat" class="chat" />
         </div>
       </section>
