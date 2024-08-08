@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/College-ChatBot/static/css/main.b2f9d3dd.css",
-    "main.js": "/College-ChatBot/static/js/main.27beb381.js",
+    "main.js": "/College-ChatBot/static/js/main.58502dd7.js",
     "static/js/651.aaca1d92.chunk.js": "/College-ChatBot/static/js/651.aaca1d92.chunk.js",
     "static/media/ColgEntrance.jpeg": "/College-ChatBot/static/media/ColgEntrance.6e5930b9326afd4f2102.jpeg",
     "static/media/chatbot.png": "/College-ChatBot/static/media/chatbot.f9638a815fd083a05047.png",
@@ -11,11 +11,11 @@
     "static/media/close.svg": "/College-ChatBot/static/media/close.604f17ae9e7f7ab96de76a3408313180.svg",
     "static/media/menu.svg": "/College-ChatBot/static/media/menu.9dbc5a3a96ad85a57422263699b1695d.svg",
     "main.b2f9d3dd.css.map": "/College-ChatBot/static/css/main.b2f9d3dd.css.map",
-    "main.27beb381.js.map": "/College-ChatBot/static/js/main.27beb381.js.map",
+    "main.58502dd7.js.map": "/College-ChatBot/static/js/main.58502dd7.js.map",
     "651.aaca1d92.chunk.js.map": "/College-ChatBot/static/js/651.aaca1d92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2f9d3dd.css",
-    "static/js/main.27beb381.js"
+    "static/js/main.58502dd7.js"
   ]
 }
